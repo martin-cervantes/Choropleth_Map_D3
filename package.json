@@ -1,0 +1,30 @@
+{
+  "name": "choropleth_map_d3",
+  "version": "1.0.0",
+  "description": "A simple project to display a Choropleth Map using D3 (JavaScript library for visualizing data with HTML, SVG, and CSS.)",
+  "main": "index.js",
+  "dependencies": {
+    "topojson-client": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcervantes71/Choropleth_Map_D3.git"
+  },
+  "keywords": [
+    "web-development",
+    "front-end",
+    "javascript",
+    "d3",
+    "learning"
+  ],
+  "author": "Martin Cervantes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcervantes71/Choropleth_Map_D3/issues"
+  },
+  "homepage": "https://github.com/mcervantes71/Choropleth_Map_D3#readme"
+}
